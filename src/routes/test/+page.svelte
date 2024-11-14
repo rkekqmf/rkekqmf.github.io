@@ -56,7 +56,7 @@
 					on:load={(event) =>
 						(event.target as HTMLImageElement).classList.replace('hidden', 'visible')}
 					on:error={(event) => console.log('Error loading image:', url)}
-				/>
+				/>ㅇㅇㅇ
 			{/each}
 		{/each}
 
